@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Bring the Car here
 The car is mine
+=======
+Bring the post
+This is the master branch
+
+
+This another master Branch
+>>>>>>> master
