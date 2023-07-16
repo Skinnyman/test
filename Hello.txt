@@ -1,3 +1,7 @@
 Bring the post
+<<<<<<< HEAD
 
 hellooooooooooooo
+=======
+This is the master branch
+>>>>>>> master
